@@ -21,7 +21,6 @@ Dự án được thực hiện cho bài tập lớn môn học tại trường 
 - seaborn
 
 Cài tất cả thư viện bằng lệnh:
-```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 
 ## Hướng dẫn chạy project / How to run
