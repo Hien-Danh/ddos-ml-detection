@@ -1,6 +1,6 @@
 # DDoS Attack Detection using Machine Learning
 
-## 📑 Giới thiệu / Introduction
+##  Giới thiệu / Introduction
 
 Đây là project thực nghiệm phát hiện tấn công từ chối dịch vụ phân tán (**DDoS**) trên dữ liệu mạng bằng các thuật toán học máy: **Decision Tree, Random Forest, KMeans Clustering**.
 
@@ -13,7 +13,7 @@ Dự án được thực hiện cho bài tập lớn môn học tại trường 
 
 ---
 
-## 🛠️ Yêu cầu / Requirements
+## Yêu cầu / Requirements
 
 - Python >= 3.8  
 - pandas  
@@ -26,10 +26,10 @@ Cài tất cả thư viện bằng lệnh:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
-## 👨‍💻 Thành viên thực hiện / Authors
+## Thành viên thực hiện / Authors
 
 - Đặng Hiển Danh  
 - Trần Văn Nhật  
 
-## 🔗 Liên hệ / Contact
+## Liên hệ / Contact
 - Email: danghiendanh467@gmail.com
