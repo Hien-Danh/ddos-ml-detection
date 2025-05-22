@@ -32,6 +32,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 - Trần Văn Nhật  
 
 ## 🔗 Liên hệ / Contact
-
-- GitHub: [https://github.com/Hien-Danh](https://github.com/Hien-Danh)  
 - Email: danghiendanh467@gmail.com
