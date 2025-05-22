@@ -25,3 +25,13 @@ Dự án được thực hiện cho bài tập lớn môn học tại trường 
 Cài tất cả thư viện bằng lệnh:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+
+## 👨‍💻 Thành viên thực hiện / Authors
+
+- Đặng Hiển Danh  
+- Trần Văn Nhật  
+
+## 🔗 Liên hệ / Contact
+
+- GitHub: [https://github.com/Hien-Danh](https://github.com/Hien-Danh)  
+- Email: danghiendanh467@gmail.com
